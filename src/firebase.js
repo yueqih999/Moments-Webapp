@@ -3,12 +3,12 @@ import { initializeApp, getApps } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBxcytJa2MWbxNcPF2qCv6w9IRddqsev7M",
-  authDomain: "milestone3-e6586.firebaseapp.com",
-  projectId: "milestone3-e6586",
-  storageBucket: "milestone3-e6586.appspot.com",
-  messagingSenderId: "635710208497",
-  appId: "1:635710208497:web:96b3cabe9d0b0c56e2ec50"
+  apiKey: "your api key",
+  authDomain: "your authDomain",
+  projectId: "your projectId",
+  storageBucket: "your storageBucket",
+  messagingSenderId: "your messaginSenderId",
+  appId: "your appId"
 };
 
 let firebaseApp
